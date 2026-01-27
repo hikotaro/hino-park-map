@@ -1,0 +1,3507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3797,
+          35.66654
+        ]
+      },
+      "properties": {
+        "name": "多摩平第一公園",
+        "type": "近隣公園",
+        "address": "東京都日野市多摩平四丁目2",
+        "desc": "芝生のグラウンド有<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒、テニスコート、自動販売機、無料駐車場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3763,
+          35.66981
+        ]
+      },
+      "properties": {
+        "name": "多摩平第二公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平五丁目6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3802,
+          35.67137
+        ]
+      },
+      "properties": {
+        "name": "多摩平第三公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平六丁目7",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3813,
+          35.6687
+        ]
+      },
+      "properties": {
+        "name": "多摩平第四公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平六丁目18",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3834,
+          35.67063
+        ]
+      },
+      "properties": {
+        "name": "多摩平第五公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平六丁目29-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3835,
+          35.66354
+        ]
+      },
+      "properties": {
+        "name": "多摩平第六公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平二丁目11",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3785,
+          35.66216
+        ]
+      },
+      "properties": {
+        "name": "多摩平第七公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平一丁目7",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3765,
+          35.66411
+        ]
+      },
+      "properties": {
+        "name": "多摩平第八公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平三丁目10",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3741,
+          35.66556
+        ]
+      },
+      "properties": {
+        "name": "多摩平第九公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平三丁目29",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3673,
+          35.65804
+        ]
+      },
+      "properties": {
+        "name": "旭が丘中央公園",
+        "type": "近隣公園",
+        "address": "東京都日野市旭が丘五丁目1-1",
+        "desc": "芝生のグラウンド有<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、健康器具、ブランコ、すべり台、ジャングルジム、鉄棒、ランニングコース、テニスコート、バスケットゴール、自動販売機、無料駐車場、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3734,
+          35.65614
+        ]
+      },
+      "properties": {
+        "name": "旭が丘東公園",
+        "type": "街区公園",
+        "address": "東京都日野市旭が丘一丁目18-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒、無料駐車場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3637,
+          35.65687
+        ]
+      },
+      "properties": {
+        "name": "旭が丘西公園",
+        "type": "街区公園",
+        "address": "東京都日野市旭が丘五丁目13",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3691,
+          35.65298
+        ]
+      },
+      "properties": {
+        "name": "旭が丘南公園",
+        "type": "街区公園",
+        "address": "東京都日野市旭が丘一丁目29-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3713,
+          35.6634
+        ]
+      },
+      "properties": {
+        "name": "旭が丘北公園",
+        "type": "街区公園",
+        "address": "東京都日野市旭が丘二丁目34-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3973,
+          35.68302
+        ]
+      },
+      "properties": {
+        "name": "四ツ谷下西公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野本町五丁目7-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4,
+          35.68338
+        ]
+      },
+      "properties": {
+        "name": "四ツ谷下東公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野本町五丁目23-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3892,
+          35.68555
+        ]
+      },
+      "properties": {
+        "name": "新東光寺公園",
+        "type": "街区公園",
+        "address": "東京都日野市栄町三丁目6-12",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3892,
+          35.68274
+        ]
+      },
+      "properties": {
+        "name": "栄町公園",
+        "type": "街区公園",
+        "address": "東京都日野市栄町四丁目3-24",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3879,
+          35.65053
+        ]
+      },
+      "properties": {
+        "name": "平山東公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山四丁目18-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3889,
+          35.66484
+        ]
+      },
+      "properties": {
+        "name": "吹上公園",
+        "type": "街区公園",
+        "address": "東京都日野市東豊田四丁目29-",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3849,
+          35.66428
+        ]
+      },
+      "properties": {
+        "name": "黒川清流公園",
+        "type": "風致公園",
+        "address": "東京都日野市東豊田三丁目16-1",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3902,
+          35.67645
+        ]
+      },
+      "properties": {
+        "name": "大坂西公園",
+        "type": "街区公園",
+        "address": "東京都日野市大坂上一丁目14-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3902,
+          35.67029
+        ]
+      },
+      "properties": {
+        "name": "大久保公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平七丁目26",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4026,
+          35.66585
+        ]
+      },
+      "properties": {
+        "name": "駒形公園",
+        "type": "近隣公園",
+        "address": "東京都日野市川辺堀之内地先",
+        "desc": "ドッグラン使用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、健康器具、芝生広場、プール、自動販売機、ドッグラン、避難場所、無料駐車場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3891,
+          35.64875
+        ]
+      },
+      "properties": {
+        "name": "たちばな公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山三丁目43-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、健康器具、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3885,
+          35.64616
+        ]
+      },
+      "properties": {
+        "name": "やと公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山三丁目33-9",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.392,
+          35.64459
+        ]
+      },
+      "properties": {
+        "name": "さかい公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山一丁目22",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3841,
+          35.64529
+        ]
+      },
+      "properties": {
+        "name": "おくやま公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山二丁目44",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3857,
+          35.64266
+        ]
+      },
+      "properties": {
+        "name": "おおさわ公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山二丁目16-9",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4,
+          35.65739
+        ]
+      },
+      "properties": {
+        "name": "ほほえみ公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平二丁目31-6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4007,
+          35.65617
+        ]
+      },
+      "properties": {
+        "name": "みなみが丘公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平二丁目21-25",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4023,
+          35.65793
+        ]
+      },
+      "properties": {
+        "name": "ふじみ公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平二丁目15-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4009,
+          35.65433
+        ]
+      },
+      "properties": {
+        "name": "みはらし公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平二丁目24-6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4043,
+          35.65555
+        ]
+      },
+      "properties": {
+        "name": "さつき公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平二丁目1-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4123,
+          35.6596
+        ]
+      },
+      "properties": {
+        "name": "芙蓉公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢四丁目9-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3787,
+          35.67865
+        ]
+      },
+      "properties": {
+        "name": "緑ヶ丘公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台二丁目33-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3858,
+          35.68199
+        ]
+      },
+      "properties": {
+        "name": "新坂下公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町三丁目18-7",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、すべり台、ジャングルジム、鉄棒、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3801,
+          35.65508
+        ]
+      },
+      "properties": {
+        "name": "豊田公園",
+        "type": "街区公園",
+        "address": "東京都日野市豊田三丁目14-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4255,
+          35.64975
+        ]
+      },
+      "properties": {
+        "name": "観音堂公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草819-19",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4242,
+          35.65221
+        ]
+      },
+      "properties": {
+        "name": "雨乞公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草881-8",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4251,
+          35.65304
+        ]
+      },
+      "properties": {
+        "name": "枡井西公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草881-33",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.423,
+          35.65075
+        ]
+      },
+      "properties": {
+        "name": "御嶽上公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草920-100",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4235,
+          35.64843
+        ]
+      },
+      "properties": {
+        "name": "ちょうまんぴら公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草971-127",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4212,
+          35.6489
+        ]
+      },
+      "properties": {
+        "name": "おおばやし公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草1002-25",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3921,
+          35.653
+        ]
+      },
+      "properties": {
+        "name": "前田公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平七丁目7-33",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3938,
+          35.65615
+        ]
+      },
+      "properties": {
+        "name": "鼻どり田公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平七丁目23-9",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396,
+          35.65574
+        ]
+      },
+      "properties": {
+        "name": "くまんどう公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平八丁目12-41",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3686,
+          35.64509
+        ]
+      },
+      "properties": {
+        "name": "さいかちぜき公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山二丁目9-9",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3671,
+          35.64572
+        ]
+      },
+      "properties": {
+        "name": "橋北公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山二丁目13-41",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4238,
+          35.6541
+        ]
+      },
+      "properties": {
+        "name": "三角点公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草896-11",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4217,
+          35.65527
+        ]
+      },
+      "properties": {
+        "name": "堀込公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢二丁目54-13",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.425,
+          35.65602
+        ]
+      },
+      "properties": {
+        "name": "神明谷戸公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢二丁目12-24",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4221,
+          35.65782
+        ]
+      },
+      "properties": {
+        "name": "てっぺん山公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢二丁目25-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4206,
+          35.65743
+        ]
+      },
+      "properties": {
+        "name": "滝の上公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢三丁目9-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3928,
+          35.65239
+        ]
+      },
+      "properties": {
+        "name": "根田公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平八丁目18-29",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3762,
+          35.67897
+        ]
+      },
+      "properties": {
+        "name": "御越前公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台二丁目38-23",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3906,
+          35.65328
+        ]
+      },
+      "properties": {
+        "name": "川原田公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平七丁目16-29",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3957,
+          35.65528
+        ]
+      },
+      "properties": {
+        "name": "掘付公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平八丁目14-54",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3948,
+          35.67703
+        ]
+      },
+      "properties": {
+        "name": "矢の山公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野本町三丁目1-15",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3753,
+          35.67254
+        ]
+      },
+      "properties": {
+        "name": "日野台公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台四丁目17",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4005,
+          35.66861
+        ]
+      },
+      "properties": {
+        "name": "滝坂下公園",
+        "type": "街区公園",
+        "address": "東京都日野市川辺堀之内299-8",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4161,
+          35.67831
+        ]
+      },
+      "properties": {
+        "name": "万願寺渡し西公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野7764-27",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3964,
+          35.65482
+        ]
+      },
+      "properties": {
+        "name": "おくまん下公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平八丁目12-72",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4106,
+          35.66709
+        ]
+      },
+      "properties": {
+        "name": "淡水区東公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺六丁目7-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4067,
+          35.67849
+        ]
+      },
+      "properties": {
+        "name": "川久保公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野1360-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4125,
+          35.65579
+        ]
+      },
+      "properties": {
+        "name": "かくれ穴公園",
+        "type": "街区公園",
+        "address": "東京都日野市程久保一丁目23-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.394,
+          35.67097
+        ]
+      },
+      "properties": {
+        "name": "日野中央公園",
+        "type": "近隣公園",
+        "address": "東京都日野市神明二丁目13-2",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、ブランコ、すべり台、芝生広場、自動販売機、避難場所",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3832,
+          35.65316
+        ]
+      },
+      "properties": {
+        "name": "矢崎公園",
+        "type": "街区公園",
+        "address": "東京都日野市豊田二丁目20-31",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3836,
+          35.66203
+        ]
+      },
+      "properties": {
+        "name": "山王下公園",
+        "type": "街区公園",
+        "address": "東京都日野市豊田四丁目46-40",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4087,
+          35.65672
+        ]
+      },
+      "properties": {
+        "name": "稲荷沢公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平1564-477",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3808,
+          35.65137
+        ]
+      },
+      "properties": {
+        "name": "大名渕公園",
+        "type": "街区公園",
+        "address": "東京都日野市東平山一丁目1-17",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3919,
+          35.64862
+        ]
+      },
+      "properties": {
+        "name": "狢谷戸公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平九丁目16-10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3937,
+          35.6496
+        ]
+      },
+      "properties": {
+        "name": "七曲り公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平九丁目1-14",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3917,
+          35.65031
+        ]
+      },
+      "properties": {
+        "name": "砂層公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平九丁目27-3",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4216,
+          35.65291
+        ]
+      },
+      "properties": {
+        "name": "百草台自然公園",
+        "type": "近隣公園",
+        "address": "東京都日野市百草914-85",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、避難場所",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4243,
+          35.65717
+        ]
+      },
+      "properties": {
+        "name": "山の神公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢三丁目9-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4251,
+          35.65797
+        ]
+      },
+      "properties": {
+        "name": "下郷公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢二丁目19-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4269,
+          35.66098
+        ]
+      },
+      "properties": {
+        "name": "金田公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川13-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3911,
+          35.64802
+        ]
+      },
+      "properties": {
+        "name": "まねご上公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平九丁目13-34",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.373,
+          35.65195
+        ]
+      },
+      "properties": {
+        "name": "ハケ下公園",
+        "type": "街区公園",
+        "address": "東京都日野市東平山二丁目23-32",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3618,
+          35.65427
+        ]
+      },
+      "properties": {
+        "name": "西平山第一公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山五丁目28-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.363,
+          35.65386
+        ]
+      },
+      "properties": {
+        "name": "西平山第二公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山五丁目20",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4123,
+          35.65385
+        ]
+      },
+      "properties": {
+        "name": "中の台公園",
+        "type": "街区公園",
+        "address": "東京都日野市程久保一丁目8-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3956,
+          35.68441
+        ]
+      },
+      "properties": {
+        "name": "四ツ谷下公園",
+        "type": "街区公園",
+        "address": "東京都日野市栄町一丁目22-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3751,
+          35.65392
+        ]
+      },
+      "properties": {
+        "name": "そりめ公園",
+        "type": "街区公園",
+        "address": "東京都日野市東平山三丁目18-46",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4365,
+          35.65864
+        ]
+      },
+      "properties": {
+        "name": "渡船場西公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草1265-20",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3885,
+          35.68107
+        ]
+      },
+      "properties": {
+        "name": "姥窪公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町三丁目6-10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4045,
+          35.65991
+        ]
+      },
+      "properties": {
+        "name": "今熊公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平三丁目5-15",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.428,
+          35.65392
+        ]
+      },
+      "properties": {
+        "name": "八幡下公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草567-12",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3854,
+          35.64989
+        ]
+      },
+      "properties": {
+        "name": "沢田公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山四丁目14",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3845,
+          35.65066
+        ]
+      },
+      "properties": {
+        "name": "下耕地公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山四丁目24-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4034,
+          35.65778
+        ]
+      },
+      "properties": {
+        "name": "かしまだい公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平一丁目10-44",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4207,
+          35.66178
+        ]
+      },
+      "properties": {
+        "name": "精進場公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢340-3",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.411,
+          35.65749
+        ]
+      },
+      "properties": {
+        "name": "おとぐち公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢四丁目16-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4024,
+          35.6801
+        ]
+      },
+      "properties": {
+        "name": "市民の森スポーツ公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野本町七丁目12-1",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、すべり台、ランニングコース、陸上競技場、自動販売機、避難場所、有料駐車場、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3713,
+          35.64755
+        ]
+      },
+      "properties": {
+        "name": "うえのまち公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山一丁目18-47",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4062,
+          35.65107
+        ]
+      },
+      "properties": {
+        "name": "日だまり公園",
+        "type": "街区公園",
+        "address": "東京都日野市程久保八丁目21-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3964,
+          35.65331
+        ]
+      },
+      "properties": {
+        "name": "南平丘陵公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平八丁目8-3",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3608,
+          35.65169
+        ]
+      },
+      "properties": {
+        "name": "中組公園",
+        "type": "街区公園",
+        "address": "東京都日野市西平山五丁目6-40",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4115,
+          35.65559
+        ]
+      },
+      "properties": {
+        "name": "谷戸口公園",
+        "type": "街区公園",
+        "address": "東京都日野市程久保一丁目23-22",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3991,
+          35.66724
+        ]
+      },
+      "properties": {
+        "name": "駒形下公園",
+        "type": "街区公園",
+        "address": "東京都日野市川辺堀之内85-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.433,
+          35.65917
+        ]
+      },
+      "properties": {
+        "name": "河内公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草2015",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4174,
+          35.65338
+        ]
+      },
+      "properties": {
+        "name": "金子屋敷公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢853-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.392,
+          35.65626
+        ]
+      },
+      "properties": {
+        "name": "松風公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平六丁目17-11",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3873,
+          35.67809
+        ]
+      },
+      "properties": {
+        "name": "姥窪南公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町二丁目2-12",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3994,
+          35.65915
+        ]
+      },
+      "properties": {
+        "name": "南平大坂公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平四丁目19-25",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4216,
+          35.66318
+        ]
+      },
+      "properties": {
+        "name": "大根川公園",
+        "type": "街区公園",
+        "address": "東京都日野市新井540-18",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4233,
+          35.66439
+        ]
+      },
+      "properties": {
+        "name": "市場みち公園",
+        "type": "街区公園",
+        "address": "東京都日野市新井370-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4076,
+          35.6617
+        ]
+      },
+      "properties": {
+        "name": "金剛寺旧跡公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平一丁目34-14",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4235,
+          35.66346
+        ]
+      },
+      "properties": {
+        "name": "中島公園",
+        "type": "街区公園",
+        "address": "東京都日野市大字新井391-31",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4235,
+          35.65806
+        ]
+      },
+      "properties": {
+        "name": "中沢谷戸公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢二丁目22-54",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4052,
+          35.65664
+        ]
+      },
+      "properties": {
+        "name": "御山の松公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平一丁目10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.425,
+          35.66999
+        ]
+      },
+      "properties": {
+        "name": "北川原公園",
+        "type": "総合公園",
+        "address": "東京都日野市石田一丁目236",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4366,
+          35.65652
+        ]
+      },
+      "properties": {
+        "name": "落川公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川2012",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3782,
+          35.66159
+        ]
+      },
+      "properties": {
+        "name": "大六天公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平一丁目14-96",
+        "desc": "【設備・遊具】<br>芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4282,
+          35.65828
+        ]
+      },
+      "properties": {
+        "name": "三沢東公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川2103",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4294,
+          35.65845
+        ]
+      },
+      "properties": {
+        "name": "上落川公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川2106-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3976,
+          35.65882
+        ]
+      },
+      "properties": {
+        "name": "南平公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平四丁目34-14",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4048,
+          35.66261
+        ]
+      },
+      "properties": {
+        "name": "禅寺丸公園",
+        "type": "街区公園",
+        "address": "東京都日野市南平四丁目3-10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4225,
+          35.66289
+        ]
+      },
+      "properties": {
+        "name": "ふる川公園",
+        "type": "街区公園",
+        "address": "東京都日野市大字新井529-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4191,
+          35.6775
+        ]
+      },
+      "properties": {
+        "name": "万願寺の渡し公園",
+        "type": "街区公園",
+        "address": "東京都日野市大字石田441-42",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3855,
+          35.6766
+        ]
+      },
+      "properties": {
+        "name": "小構公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台一丁目1-7",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒、芝生広場、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422,
+          35.66095
+        ]
+      },
+      "properties": {
+        "name": "三沢たちばな公園",
+        "type": "街区公園",
+        "address": "東京都日野市三沢1500",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、ブランコ、バスケットゴール",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3929,
+          35.68193
+        ]
+      },
+      "properties": {
+        "name": "加賀塚公園",
+        "type": "街区公園",
+        "address": "東京都日野市栄町一丁目35-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、すべり台、ローラースライダー",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3775,
+          35.68399
+        ]
+      },
+      "properties": {
+        "name": "埴輪公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町五丁目15-11",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3788,
+          35.68498
+        ]
+      },
+      "properties": {
+        "name": "東光寺西公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町五丁目1-16",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4124,
+          35.66404
+        ]
+      },
+      "properties": {
+        "name": "潤徳公園",
+        "type": "街区公園",
+        "address": "東京都日野市高幡507-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4117,
+          35.66806
+        ]
+      },
+      "properties": {
+        "name": "大木島自然公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺六丁目6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.409,
+          35.6669
+        ]
+      },
+      "properties": {
+        "name": "川原附公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺六丁目16-6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4105,
+          35.67287
+        ]
+      },
+      "properties": {
+        "name": "藺沼公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺三丁目22-8",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.417,
+          35.67454
+        ]
+      },
+      "properties": {
+        "name": "根川公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺二丁目36-6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4202,
+          35.67488
+        ]
+      },
+      "properties": {
+        "name": "源平島東公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺一丁目12-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4205,
+          35.67262
+        ]
+      },
+      "properties": {
+        "name": "下田つつじ公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺二丁目19-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4218,
+          35.66865
+        ]
+      },
+      "properties": {
+        "name": "新井公園",
+        "type": "街区公園",
+        "address": "東京都日野市石田一丁目13-6",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4177,
+          35.66864
+        ]
+      },
+      "properties": {
+        "name": "石明公園",
+        "type": "街区公園",
+        "address": "東京都日野市石田二丁目11-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、鉄棒、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4202,
+          35.67336
+        ]
+      },
+      "properties": {
+        "name": "水車公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺二丁目28",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4215,
+          35.67359
+        ]
+      },
+      "properties": {
+        "name": "下田住宅公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺二丁目10-10",
+        "desc": "【設備・遊具】<br>砂場、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.412,
+          35.67433
+        ]
+      },
+      "properties": {
+        "name": "日野万大六天公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺一丁目37-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4169,
+          35.67572
+        ]
+      },
+      "properties": {
+        "name": "源平島西公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺一丁目31-10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4181,
+          35.67116
+        ]
+      },
+      "properties": {
+        "name": "家生田公園",
+        "type": "街区公園",
+        "address": "東京都日野市万願寺四丁目9-10",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3971,
+          35.66389
+        ]
+      },
+      "properties": {
+        "name": "日枝神社西公園",
+        "type": "街区公園",
+        "address": "東京都日野市東豊田一丁目1-20",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3868,
+          35.68221
+        ]
+      },
+      "properties": {
+        "name": "よそう森公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町三丁目10-45",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3834,
+          35.68329
+        ]
+      },
+      "properties": {
+        "name": "水車堀公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町三丁目43-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4139,
+          35.67102
+        ]
+      },
+      "properties": {
+        "name": "万願寺中央公園",
+        "type": "近隣公園",
+        "address": "東京都日野市万願寺四丁目20-12",
+        "desc": "公園西側駐車場：交流センター利用者専用駐車場　公園東側駐車場：グラウンド・公園利用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、野球場、自動販売機、避難場所、無料駐車場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4391,
+          35.65716
+        ]
+      },
+      "properties": {
+        "name": "田中島公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川1397-61",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3735,
+          35.65927
+        ]
+      },
+      "properties": {
+        "name": "まつり塚公園",
+        "type": "街区公園",
+        "address": "東京都日野市富士町1-35",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4241,
+          35.64582
+        ]
+      },
+      "properties": {
+        "name": "御林山公園",
+        "type": "街区公園",
+        "address": "東京都日野市百草1042-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422,
+          35.66409
+        ]
+      },
+      "properties": {
+        "name": "新井わかたけ公園",
+        "type": "街区公園",
+        "address": "東京都日野市石田266",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4131,
+          35.6681
+        ]
+      },
+      "properties": {
+        "name": "浅川スポーツ公園",
+        "type": "近隣公園",
+        "address": "東京都日野市万願寺五丁目3-5",
+        "desc": "グラウンド利用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、芝生広場、サッカー場、避難場所、無料駐車場、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.374,
+          35.65358
+        ]
+      },
+      "properties": {
+        "name": "中原公園",
+        "type": "街区公園",
+        "address": "東京都日野市東平山三丁目16-21",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4303,
+          35.65732
+        ]
+      },
+      "properties": {
+        "name": "松連寺坂下公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川1049-8",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、健康器具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4158,
+          35.6641
+        ]
+      },
+      "properties": {
+        "name": "別旅公園",
+        "type": "街区公園",
+        "address": "東京都日野市高幡426-3",
+        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3905,
+          35.68077
+        ]
+      },
+      "properties": {
+        "name": "姫森公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町一丁目34-3",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3909,
+          35.66197
+        ]
+      },
+      "properties": {
+        "name": "東豊田公園",
+        "type": "街区公園",
+        "address": "東京都日野市東豊田一丁目33-26",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、複合遊具、健康器具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3921,
+          35.67965
+        ]
+      },
+      "properties": {
+        "name": "池堀公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町一丁目25-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3808,
+          35.64927
+        ]
+      },
+      "properties": {
+        "name": "大福寺下公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山五丁目49-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3815,
+          35.64865
+        ]
+      },
+      "properties": {
+        "name": "出口公園",
+        "type": "街区公園",
+        "address": "東京都日野市平山五丁目39",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3814,
+          35.68196
+        ]
+      },
+      "properties": {
+        "name": "東光寺上公園",
+        "type": "街区公園",
+        "address": "東京都日野市新町四丁目4-25",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、鉄棒、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3787,
+          35.68246
+        ]
+      },
+      "properties": {
+        "name": "七ッ塚公園",
+        "type": "総合公園",
+        "address": "東京都日野市新町五丁目20-1",
+        "desc": "ファーマーズセンター利用者専用駐車場<br><br>【設備・遊具】<br>水飲み・手洗い、ターザンロープ、芝生広場、自動販売機、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4061,
+          35.67299
+        ]
+      },
+      "properties": {
+        "name": "南広間地公園",
+        "type": "街区公園",
+        "address": "東京都日野市大字日野315-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3821,
+          35.6794
+        ]
+      },
+      "properties": {
+        "name": "北御越前公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台二丁目8",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3745,
+          35.67059
+        ]
+      },
+      "properties": {
+        "name": "一里塚公園",
+        "type": "街区公園",
+        "address": "東京都日野市日野台五丁目2-20",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、健康器具、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3752,
+          35.65204
+        ]
+      },
+      "properties": {
+        "name": "豊田電車区公園",
+        "type": "街区公園",
+        "address": "東京都日野市東平山三丁目26-23",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4076,
+          35.65211
+        ]
+      },
+      "properties": {
+        "name": "-匠谷戸公園",
+        "type": "街区公園",
+        "address": "東京都日野市程久保八丁目18-27",
+        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.395,
+          35.68227
+        ]
+      },
+      "properties": {
+        "name": "四ッ谷前公園",
+        "type": "街区公園",
+        "address": "東京都日野市栄町一丁目32-1",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4347,
+          35.65899
+        ]
+      },
+      "properties": {
+        "name": "落川河原公園",
+        "type": "街区公園",
+        "address": "東京都日野市落川2203外",
+        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3833,
+          35.66875
+        ]
+      },
+      "properties": {
+        "name": "多摩平御料の森公園",
+        "type": "街区公園",
+        "address": "東京都日野市多摩平六丁目20-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4203,
+          35.66607
+        ]
+      },
+      "properties": {
+        "name": "新井水車公園",
+        "type": "街区公園",
+        "address": "東京都日野市新井803-26",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4188,
+          35.66128
+        ]
+      },
+      "properties": {
+        "name": "ねんも公園",
+        "type": "公園",
+        "address": "東京都日野市三沢495",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、すべり台、鉄棒、芝生広場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3963,
+          35.65902
+        ]
+      },
+      "properties": {
+        "name": "苗間公園",
+        "type": "公園",
+        "address": "東京都日野市南平五丁目20-16",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422,
+          35.64636
+        ]
+      },
+      "properties": {
+        "name": "倉沢岡公園",
+        "type": "公園",
+        "address": "東京都日野市百草1006-28",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、鉄棒、駐輪場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.407,
+          35.6602
+        ]
+      },
+      "properties": {
+        "name": "鹿島台ふれあい広場",
+        "type": "公園",
+        "address": "東京都日野市南平一丁目26-4",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3835,
+          35.67655
+        ]
+      },
+      "properties": {
+        "name": "日野台1丁目公園",
+        "type": "公園",
+        "address": "東京都日野市日野台一丁目9-21",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3953,
+          35.67974
+        ]
+      },
+      "properties": {
+        "name": "上宿の辻公園",
+        "type": "公園",
+        "address": "東京都日野市日野本町四丁目7-24",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3947,
+          35.68057
+        ]
+      },
+      "properties": {
+        "name": "森町公園",
+        "type": "公園",
+        "address": "東京都日野市日野本町四丁目8-12",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3917,
+          35.67522
+        ]
+      },
+      "properties": {
+        "name": "やのやま地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市大坂上一丁目7-2",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4133,
+          35.67916
+        ]
+      },
+      "properties": {
+        "name": "まつばやし地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市日野7773-585",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4039,
+          35.65746
+        ]
+      },
+      "properties": {
+        "name": "かしまだい地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市南平一丁目10-43",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場、無料駐車場",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.425,
+          35.65044
+        ]
+      },
+      "properties": {
+        "name": "もぐさ観音地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市百草819-4",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4334,
+          35.66149
+        ]
+      },
+      "properties": {
+        "name": "おちかわ地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市落川1530先",
+        "desc": "【設備・遊具】<br>トイレ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4069,
+          35.68186
+        ]
+      },
+      "properties": {
+        "name": "あずまちょう地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市日野1237-5",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4056,
+          35.6485
+        ]
+      },
+      "properties": {
+        "name": "ほどくぼ地区広場",
+        "type": "地区広場",
+        "address": "東京都日野市程久保三丁目22-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3996,
+          35.67918
+        ]
+      },
+      "properties": {
+        "name": "福祉センター前児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市日野本町7丁目5-9",
+        "desc": "【設備・遊具】<br>砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3861,
+          35.64813
+        ]
+      },
+      "properties": {
+        "name": "下村児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市平山五丁目1-9",
+        "desc": "【設備・遊具】<br>砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3873,
+          35.68526
+        ]
+      },
+      "properties": {
+        "name": "新東光寺児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市栄町三丁目14",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4115,
+          35.68064
+        ]
+      },
+      "properties": {
+        "name": "第二日野万児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市日野1077-96",
+        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4139,
+          35.67464
+        ]
+      },
+      "properties": {
+        "name": "第一日野万児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市万願寺三丁目39-27",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3866,
+          35.67947
+        ]
+      },
+      "properties": {
+        "name": "新坂下児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市新町3丁目4-3",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3991,
+          35.67521
+        ]
+      },
+      "properties": {
+        "name": "山下児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市日野本町二丁目4-7",
+        "desc": "【設備・遊具】<br>砂場、ブランコ、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4021,
+          35.67487
+        ]
+      },
+      "properties": {
+        "name": "広間地児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市日野2860",
+        "desc": "【設備・遊具】<br>鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4102,
+          35.64743
+        ]
+      },
+      "properties": {
+        "name": "第二武蔵野台児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市程久保二丁目7-2",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3718,
+          35.64981
+        ]
+      },
+      "properties": {
+        "name": "平山武蔵台児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市東平山二丁目29-3",
+        "desc": "【設備・遊具】<br>複合遊具、すべり台、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.392,
+          35.67709
+        ]
+      },
+      "properties": {
+        "name": "横町児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市大坂上一丁目4-11",
+        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3944,
+          35.66521
+        ]
+      },
+      "properties": {
+        "name": "小高田児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市東豊田一丁目42-2",
+        "desc": "【設備・遊具】<br>砂場、複合遊具、ブランコ、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4168,
+          35.67594
+        ]
+      },
+      "properties": {
+        "name": "万願寺児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市日野7774",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4183,
+          35.65277
+        ]
+      },
+      "properties": {
+        "name": "百草台児童遊園",
+        "type": "遊び場",
+        "address": "東京都日野市百草999",
+        "desc": "【設備・遊具】<br>複合遊具、すべり台、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3898,
+          35.65671
+        ]
+      },
+      "properties": {
+        "name": "豊田児童グラウンド",
+        "type": "遊び場",
+        "address": "東京都日野市豊田一丁目先",
+        "desc": "【設備・遊具】<br>トイレ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3594,
+          35.65357
+        ]
+      },
+      "properties": {
+        "name": "大和田運動広場",
+        "type": "遊び場",
+        "address": "東京都日野市八王子市大和田",
+        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4104,
+          35.64984
+        ]
+      },
+      "properties": {
+        "name": "程久保運動広場",
+        "type": "遊び場",
+        "address": "東京都日野市程久保531-33",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3935,
+          35.6512
+        ]
+      },
+      "properties": {
+        "name": "田中こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市南平八丁目5",
+        "desc": "【設備・遊具】<br>トイレ",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4023,
+          35.66417
+        ]
+      },
+      "properties": {
+        "name": "向島こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市南平五丁目33",
+        "desc": "",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3892,
+          35.66729
+        ]
+      },
+      "properties": {
+        "name": "黒川こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市東豊田三丁目15-5",
+        "desc": "【設備・遊具】<br>砂場、すべり台、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3773,
+          35.65385
+        ]
+      },
+      "properties": {
+        "name": "東宮下こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市東平山3-11-35",
+        "desc": "【設備・遊具】<br>砂場、ブランコ、ジャングルジム、鉄棒",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3977,
+          35.67747
+        ]
+      },
+      "properties": {
+        "name": "金子橋こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市日野本町二丁目13-24",
+        "desc": "【設備・遊具】<br>砂場、すべり台",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3968,
+          35.66073
+        ]
+      },
+      "properties": {
+        "name": "向川原こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市南平五丁目30-1",
+        "desc": "【設備・遊具】<br>砂場、すべり台、ジャングルジム",
+        "marker_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4087,
+          35.6715
+        ]
+      },
+      "properties": {
+        "name": "宮こども広場",
+        "type": "遊び場",
+        "address": "東京都日野市万願寺三丁目47-2",
+        "desc": "",
+        "marker_type": "park"
+      }
+    }
+  ]
+}
