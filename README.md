@@ -1,4 +1,4 @@
-# 日野市文化財マップ (Hino City Park Map)
+# 日野市公園マップ (Hino City Park Map)
 日野市内の公園を地図上で閲覧できるインタラクティブなWebマップです。 Leaflet.jsを使用し、日野市のオープンデータを可視化しています。公園の場所、設備や遊具を確認することができます。
 
 ## 🌐 デモ (Demo)
@@ -40,7 +40,7 @@ firebase emulators:start --only hosting
 Visual Studio Codeの拡張機能「Live Server」などを利用して index.html を開いてください。  
   　
 ## 📊 データの更新方法 (Data Update)
-文化財データを追加・修正する場合は、index.html を編集する必要はありません。 data.geojson ファイルを以下の形式で編集してください。  
+データを追加・修正する場合は、index.html を編集する必要はありません。 parks.geojson ファイルを以下の形式で編集してください。  
 ```data.geojson
 {  
   "type": "Feature",  
@@ -59,7 +59,7 @@ Visual Studio Codeの拡張機能「Live Server」などを利用して index.ht
 ```
   　
 ## 🌍 データ出典 (Data Source)
-本アプリケーションで使用している文化財データは、以下のオープンデータを利用・加工しています。  
+本アプリケーションで使用している公園データは、以下のオープンデータを利用・加工しています。  
 • データ元: 日野市指定文化財一覧  
 • ライセンス: クリエイティブ・コモンズ 表示 4.0 国際 ライセンス (CC BY 4.0)  
   
