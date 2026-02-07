@@ -193,7 +193,7 @@
         popupAnchor: [0, -32], // ポップアップがアイコンのすぐ上に出るように調整
       });
 
-      let geojsonLayer; // レイヤーを操作するための変数
+      let markerClusterLayer = null; // レイヤーを操作するための変数
       let allData = null; // 読み込んだ全データを保持する変数
 
       // 3. GeoJSONデータの読み込みとクラスタリング
@@ -250,9 +250,9 @@
 
       // フィルタリングと再描画
       function updateMap() {
-        // もし既にレイヤーがあれば削除（クリア）
-        if (geojsonLayer) {
-          map.removeLayer(geojsonLayer);
+        // もし既にクラスタレイヤーがあれば削除（クリア）
+        if (markerClusterLayer) {
+          map.removeLayer(markerClusterLayer);
         }
 
         // チェックボックスの状態を取得
@@ -263,8 +263,8 @@
           }
         });
 
-        // (A) クラスタグループを作成（この中にマーカーを入れます）
-        const markers = L.markerClusterGroup();
+        // (A) クラスタグループを作成（ここで新しいグループを作る）
+        markerClusterLayer = L.markerClusterGroup();
 
         // (B) GeoJSONレイヤーを作成（まだ地図には追加しない）
         const geoJsonLayer = L.geoJSON(allData, {
@@ -302,10 +302,10 @@
         });
 
         // (C) 作成したレイヤーをクラスタグループに追加
-        markers.addLayer(geoJsonLayer);
+        markerClusterLayer.addLayer(geoJsonLayer);
 
         // (D) 最後にクラスタグループを地図に追加
-        map.addLayer(markers);
+        map.addLayer(markerClusterLayer);
       }
     </script>
   </body>
