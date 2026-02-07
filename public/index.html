@@ -95,6 +95,28 @@
       #gps-btn:active {
         background: #eee;
       }
+
+      /* 絞り込みパネルのスタイル */
+      .filter-panel {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1000; /* 地図より手前に表示 */
+        background: white;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        max-width: 250px;
+        font-family: sans-serif;
+      }
+      .filter-panel h3 {
+        margin-top: 0;
+        font-size: 16px;
+      }
+      .filter-item {
+        margin-bottom: 5px;
+        display: block;
+      }
     </style>
   </head>
   <body>
@@ -102,6 +124,39 @@
 
     <!-- スマホで押しやすい位置に配置したGPSボタン -->
     <button id="gps-btn">📍 現在地へ移動</button>
+
+    <!-- 絞り込みパネル -->
+    <div class="filter-panel">
+      <h3>設備でさがす</h3>
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="toilet" />
+        トイレあり</label
+      >
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="water_play" />
+        水遊びができる</label
+      >
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="sandbox" />
+        砂場</label
+      >
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="swing" />
+        ブランコ</label
+      >
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="slide" />
+        すべり台</label
+      >
+      <label class="filter-item"
+        ><input type="checkbox" class="filter-chk" value="combo_play" />
+        複合遊具</label
+      >
+      <hr />
+      <div style="font-size: 12px; color: #666">
+        ※チェックを入れると、その設備がある公園のみ表示されます。
+      </div>
+    </div>
 
     <!-- Leaflet JavaScript -->
     <script
@@ -130,59 +185,36 @@
           '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
 
+      // 木のアイコンを定義
+      const parkIcon = L.icon({
+        iconUrl: './img/tree.svg', // 保存したSVGファイルのパス
+        iconSize: [32, 32], // ★サイズを[幅, 高さ]で指定（例: 32px）
+        iconAnchor: [16, 32], // ★アイコンの底辺中央を座標に合わせる [幅/2, 高さ]
+        popupAnchor: [0, -32], // ポップアップがアイコンのすぐ上に出るように調整
+      });
+
+      let geojsonLayer; // レイヤーを操作するための変数
+      let allData = null; // 読み込んだ全データを保持する変数
+
       // 3. GeoJSONデータの読み込みとクラスタリング
       fetch('parks.geojson')
         .then(function (response) {
           return response.json();
         })
         .then(function (data) {
-          // (A) クラスタグループを作成（この中にマーカーを入れます）
-          const markers = L.markerClusterGroup();
-
-          // (B) 木のアイコンを定義
-          const parkIcon = L.icon({
-            iconUrl: './img/tree.svg', // 保存したSVGファイルのパス
-            iconSize: [32, 32], // ★サイズを[幅, 高さ]で指定（例: 32px）
-            iconAnchor: [16, 32], // ★アイコンの底辺中央を座標に合わせる [幅/2, 高さ]
-            popupAnchor: [0, -32], // ポップアップがアイコンのすぐ上に出るように調整
-          });
-
-          // (C) GeoJSONレイヤーを作成（まだ地図には追加しない）
-          const geoJsonLayer = L.geoJSON(data, {
-            pointToLayer: function (feature, latlng) {
-              // feature.properties.name は GeoJSON の "name" プロパティ（公園名や文化財名）
-              return L.marker(latlng, {
-                icon: parkIcon, // アイコンを設定
-                title: feature.properties.name, // マウスホバー時に名称が表示される
-                alt: feature.properties.name, // スクリーンリーダー読み上げ用（アクセシビリティ対応）
-              });
-            },
-            onEachFeature: function (feature, layer) {
-              if (feature.properties) {
-                const popupHTML = `
-                  <div class="popup-content" style="max-width:250px;">
-                    <h3>${feature.properties.name}</h3>
-                    <p>${feature.properties.desc}</p>
-                    <div class="popup-meta">住所: ${feature.properties.address}</div>
-                  </div>
-                `;
-
-                layer.bindPopup(popupHTML);
-              }
-            },
-          });
-
-          // (D) 作成したレイヤーをクラスタグループに追加
-          markers.addLayer(geoJsonLayer);
-
-          // (E) 最後にクラスタグループを地図に追加
-          map.addLayer(markers);
+          allData = data;
+          updateMap();
         })
         .catch(function (error) {
           console.error('データの読み込みに失敗しました:', error);
         });
 
-      // --- 4. GPS機能 ---
+      // --- 4. フィルタリング機能 チェックボックス変更時に地図を更新するイベント設定
+      document.querySelectorAll('.filter-chk').forEach(function (input) {
+        input.addEventListener('change', updateMap);
+      });
+
+      // --- 5. GPS機能 ---
       document.getElementById('gps-btn').addEventListener('click', function () {
         if (!navigator.geolocation) {
           alert('位置情報に対応していません。');
@@ -215,6 +247,66 @@
           },
         );
       });
+
+      // フィルタリングと再描画
+      function updateMap() {
+        // もし既にレイヤーがあれば削除（クリア）
+        if (geojsonLayer) {
+          map.removeLayer(geojsonLayer);
+        }
+
+        // チェックボックスの状態を取得
+        let filters = {};
+        document.querySelectorAll('.filter-chk').forEach(function (input) {
+          if (input.checked) {
+            filters[input.value] = true;
+          }
+        });
+
+        // (A) クラスタグループを作成（この中にマーカーを入れます）
+        const markers = L.markerClusterGroup();
+
+        // (B) GeoJSONレイヤーを作成（まだ地図には追加しない）
+        const geoJsonLayer = L.geoJSON(allData, {
+          pointToLayer: function (feature, latlng) {
+            // feature.properties.name は GeoJSON の "name" プロパティ（公園名や文化財名）
+            return L.marker(latlng, {
+              icon: parkIcon, // アイコンを設定
+              title: feature.properties.name, // マウスホバー時に名称が表示される
+              alt: feature.properties.name, // スクリーンリーダー読み上げ用（アクセシビリティ対応）
+            });
+          },
+          onEachFeature: function (feature, layer) {
+            if (feature.properties) {
+              const popupHTML = `
+                  <div class="popup-content" style="max-width:250px;">
+                    <h3>${feature.properties.name}</h3>
+                    <p>${feature.properties.desc}</p>
+                    <div class="popup-meta">住所: ${feature.properties.address}</div>
+                  </div>
+                `;
+
+              layer.bindPopup(popupHTML);
+            }
+          },
+          filter: function (feature) {
+            // 全てのチェック項目について、データ側が true か確認
+            for (var key in filters) {
+              // データにそのプロパティが無い、または false の場合は非表示
+              if (!feature.properties[key]) {
+                return false;
+              }
+            }
+            return true; // 全条件クリアなら表示
+          },
+        });
+
+        // (C) 作成したレイヤーをクラスタグループに追加
+        markers.addLayer(geoJsonLayer);
+
+        // (D) 最後にクラスタグループを地図に追加
+        map.addLayer(markers);
+      }
     </script>
   </body>
 </html>

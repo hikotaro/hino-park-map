@@ -14,8 +14,17 @@
         "name": "多摩平第一公園",
         "type": "近隣公園",
         "address": "東京都日野市多摩平四丁目2",
-        "desc": "芝生のグラウンド有<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒、テニスコート、自動販売機、無料駐車場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -31,8 +40,17 @@
         "name": "多摩平第二公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平五丁目6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -48,8 +66,17 @@
         "name": "多摩平第三公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平六丁目7",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -65,8 +92,17 @@
         "name": "多摩平第四公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平六丁目18",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -82,8 +118,17 @@
         "name": "多摩平第五公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平六丁目29-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -99,8 +144,17 @@
         "name": "多摩平第六公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平二丁目11",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -116,8 +170,17 @@
         "name": "多摩平第七公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平一丁目7",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -133,8 +196,17 @@
         "name": "多摩平第八公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平三丁目10",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -150,8 +222,17 @@
         "name": "多摩平第九公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平三丁目29",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -167,8 +248,17 @@
         "name": "旭が丘中央公園",
         "type": "近隣公園",
         "address": "東京都日野市旭が丘五丁目1-1",
-        "desc": "芝生のグラウンド有<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、健康器具、ブランコ、すべり台、ジャングルジム、鉄棒、ランニングコース、テニスコート、バスケットゴール、自動販売機、無料駐車場、駐輪場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -184,8 +274,17 @@
         "name": "旭が丘東公園",
         "type": "街区公園",
         "address": "東京都日野市旭が丘一丁目18-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒、無料駐車場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -201,8 +300,17 @@
         "name": "旭が丘西公園",
         "type": "街区公園",
         "address": "東京都日野市旭が丘五丁目13",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -218,8 +326,17 @@
         "name": "旭が丘南公園",
         "type": "街区公園",
         "address": "東京都日野市旭が丘一丁目29-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -235,8 +352,17 @@
         "name": "旭が丘北公園",
         "type": "街区公園",
         "address": "東京都日野市旭が丘二丁目34-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、複合遊具、鉄棒"
       }
     },
     {
@@ -252,8 +378,17 @@
         "name": "四ツ谷下西公園",
         "type": "街区公園",
         "address": "東京都日野市日野本町五丁目7-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -269,8 +404,17 @@
         "name": "四ツ谷下東公園",
         "type": "街区公園",
         "address": "東京都日野市日野本町五丁目23-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -286,8 +430,17 @@
         "name": "新東光寺公園",
         "type": "街区公園",
         "address": "東京都日野市栄町三丁目6-12",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、すべり台、複合遊具"
       }
     },
     {
@@ -303,8 +456,17 @@
         "name": "栄町公園",
         "type": "街区公園",
         "address": "東京都日野市栄町四丁目3-24",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -320,8 +482,17 @@
         "name": "平山東公園",
         "type": "街区公園",
         "address": "東京都日野市平山四丁目18-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -337,8 +508,17 @@
         "name": "吹上公園",
         "type": "街区公園",
         "address": "東京都日野市東豊田四丁目29-",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -354,8 +534,17 @@
         "name": "黒川清流公園",
         "type": "風致公園",
         "address": "東京都日野市東豊田三丁目16-1",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -371,8 +560,17 @@
         "name": "大坂西公園",
         "type": "街区公園",
         "address": "東京都日野市大坂上一丁目14-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -388,8 +586,17 @@
         "name": "大久保公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平七丁目26",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -405,8 +612,17 @@
         "name": "駒形公園",
         "type": "近隣公園",
         "address": "東京都日野市川辺堀之内地先",
-        "desc": "ドッグラン使用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、健康器具、芝生広場、プール、自動販売機、ドッグラン、避難場所、無料駐車場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -422,8 +638,17 @@
         "name": "たちばな公園",
         "type": "街区公園",
         "address": "東京都日野市平山三丁目43-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、健康器具、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -439,8 +664,17 @@
         "name": "やと公園",
         "type": "街区公園",
         "address": "東京都日野市平山三丁目33-9",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -456,8 +690,17 @@
         "name": "さかい公園",
         "type": "街区公園",
         "address": "東京都日野市平山一丁目22",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -473,8 +716,17 @@
         "name": "おくやま公園",
         "type": "街区公園",
         "address": "東京都日野市平山二丁目44",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -490,8 +742,17 @@
         "name": "おおさわ公園",
         "type": "街区公園",
         "address": "東京都日野市平山二丁目16-9",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -507,8 +768,17 @@
         "name": "ほほえみ公園",
         "type": "街区公園",
         "address": "東京都日野市南平二丁目31-6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -524,8 +794,17 @@
         "name": "みなみが丘公園",
         "type": "街区公園",
         "address": "東京都日野市南平二丁目21-25",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、鉄棒"
       }
     },
     {
@@ -541,8 +820,17 @@
         "name": "ふじみ公園",
         "type": "街区公園",
         "address": "東京都日野市南平二丁目15-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -558,8 +846,17 @@
         "name": "みはらし公園",
         "type": "街区公園",
         "address": "東京都日野市南平二丁目24-6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台、鉄棒"
       }
     },
     {
@@ -575,8 +872,17 @@
         "name": "さつき公園",
         "type": "街区公園",
         "address": "東京都日野市南平二丁目1-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、鉄棒"
       }
     },
     {
@@ -592,8 +898,17 @@
         "name": "芙蓉公園",
         "type": "街区公園",
         "address": "東京都日野市三沢四丁目9-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -609,8 +924,17 @@
         "name": "緑ヶ丘公園",
         "type": "街区公園",
         "address": "東京都日野市日野台二丁目33-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -626,8 +950,17 @@
         "name": "新坂下公園",
         "type": "街区公園",
         "address": "東京都日野市新町三丁目18-7",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、すべり台、ジャングルジム、鉄棒、芝生広場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -643,8 +976,17 @@
         "name": "豊田公園",
         "type": "街区公園",
         "address": "東京都日野市豊田三丁目14-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -660,8 +1002,17 @@
         "name": "観音堂公園",
         "type": "街区公園",
         "address": "東京都日野市百草819-19",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -677,8 +1028,17 @@
         "name": "雨乞公園",
         "type": "街区公園",
         "address": "東京都日野市百草881-8",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -694,8 +1054,17 @@
         "name": "枡井西公園",
         "type": "街区公園",
         "address": "東京都日野市百草881-33",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、すべり台、複合遊具、鉄棒"
       }
     },
     {
@@ -711,8 +1080,17 @@
         "name": "御嶽上公園",
         "type": "街区公園",
         "address": "東京都日野市百草920-100",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -728,8 +1106,17 @@
         "name": "ちょうまんぴら公園",
         "type": "街区公園",
         "address": "東京都日野市百草971-127",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台、鉄棒"
       }
     },
     {
@@ -745,8 +1132,17 @@
         "name": "おおばやし公園",
         "type": "街区公園",
         "address": "東京都日野市百草1002-25",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -762,8 +1158,17 @@
         "name": "前田公園",
         "type": "街区公園",
         "address": "東京都日野市南平七丁目7-33",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -779,8 +1184,17 @@
         "name": "鼻どり田公園",
         "type": "街区公園",
         "address": "東京都日野市南平七丁目23-9",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -796,8 +1210,17 @@
         "name": "くまんどう公園",
         "type": "街区公園",
         "address": "東京都日野市南平八丁目12-41",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -813,8 +1236,17 @@
         "name": "さいかちぜき公園",
         "type": "街区公園",
         "address": "東京都日野市西平山二丁目9-9",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -830,8 +1262,17 @@
         "name": "橋北公園",
         "type": "街区公園",
         "address": "東京都日野市西平山二丁目13-41",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -847,8 +1288,17 @@
         "name": "三角点公園",
         "type": "街区公園",
         "address": "東京都日野市百草896-11",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -864,8 +1314,17 @@
         "name": "堀込公園",
         "type": "街区公園",
         "address": "東京都日野市三沢二丁目54-13",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -881,8 +1340,17 @@
         "name": "神明谷戸公園",
         "type": "街区公園",
         "address": "東京都日野市三沢二丁目12-24",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -898,8 +1366,17 @@
         "name": "てっぺん山公園",
         "type": "街区公園",
         "address": "東京都日野市三沢二丁目25-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -915,8 +1392,17 @@
         "name": "滝の上公園",
         "type": "街区公園",
         "address": "東京都日野市三沢三丁目9-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -932,8 +1418,17 @@
         "name": "根田公園",
         "type": "街区公園",
         "address": "東京都日野市南平八丁目18-29",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -949,8 +1444,17 @@
         "name": "御越前公園",
         "type": "街区公園",
         "address": "東京都日野市日野台二丁目38-23",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -966,8 +1470,17 @@
         "name": "川原田公園",
         "type": "街区公園",
         "address": "東京都日野市南平七丁目16-29",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、鉄棒"
       }
     },
     {
@@ -983,8 +1496,17 @@
         "name": "掘付公園",
         "type": "街区公園",
         "address": "東京都日野市南平八丁目14-54",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1000,8 +1522,17 @@
         "name": "矢の山公園",
         "type": "街区公園",
         "address": "東京都日野市日野本町三丁目1-15",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -1017,8 +1548,17 @@
         "name": "日野台公園",
         "type": "街区公園",
         "address": "東京都日野市日野台四丁目17",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1034,8 +1574,17 @@
         "name": "滝坂下公園",
         "type": "街区公園",
         "address": "東京都日野市川辺堀之内299-8",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1051,8 +1600,17 @@
         "name": "万願寺渡し西公園",
         "type": "街区公園",
         "address": "東京都日野市日野7764-27",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1068,8 +1626,17 @@
         "name": "おくまん下公園",
         "type": "街区公園",
         "address": "東京都日野市南平八丁目12-72",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、鉄棒"
       }
     },
     {
@@ -1085,8 +1652,17 @@
         "name": "淡水区東公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺六丁目7-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1102,8 +1678,17 @@
         "name": "川久保公園",
         "type": "街区公園",
         "address": "東京都日野市日野1360-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -1119,8 +1704,17 @@
         "name": "かくれ穴公園",
         "type": "街区公園",
         "address": "東京都日野市程久保一丁目23-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -1136,8 +1730,17 @@
         "name": "日野中央公園",
         "type": "近隣公園",
         "address": "東京都日野市神明二丁目13-2",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、ブランコ、すべり台、芝生広場、自動販売機、避難場所",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -1153,8 +1756,17 @@
         "name": "矢崎公園",
         "type": "街区公園",
         "address": "東京都日野市豊田二丁目20-31",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -1170,8 +1782,17 @@
         "name": "山王下公園",
         "type": "街区公園",
         "address": "東京都日野市豊田四丁目46-40",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -1187,8 +1808,17 @@
         "name": "稲荷沢公園",
         "type": "街区公園",
         "address": "東京都日野市南平1564-477",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -1204,8 +1834,17 @@
         "name": "大名渕公園",
         "type": "街区公園",
         "address": "東京都日野市東平山一丁目1-17",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1221,8 +1860,17 @@
         "name": "狢谷戸公園",
         "type": "街区公園",
         "address": "東京都日野市南平九丁目16-10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1238,8 +1886,17 @@
         "name": "七曲り公園",
         "type": "街区公園",
         "address": "東京都日野市南平九丁目1-14",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -1255,8 +1912,17 @@
         "name": "砂層公園",
         "type": "街区公園",
         "address": "東京都日野市南平九丁目27-3",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -1272,8 +1938,17 @@
         "name": "百草台自然公園",
         "type": "近隣公園",
         "address": "東京都日野市百草914-85",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、避難場所",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -1289,8 +1964,17 @@
         "name": "山の神公園",
         "type": "街区公園",
         "address": "東京都日野市三沢三丁目9-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1306,8 +1990,17 @@
         "name": "下郷公園",
         "type": "街区公園",
         "address": "東京都日野市三沢二丁目19-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台"
       }
     },
     {
@@ -1323,8 +2016,17 @@
         "name": "金田公園",
         "type": "街区公園",
         "address": "東京都日野市落川13-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1340,8 +2042,17 @@
         "name": "まねご上公園",
         "type": "街区公園",
         "address": "東京都日野市南平九丁目13-34",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -1357,8 +2068,17 @@
         "name": "ハケ下公園",
         "type": "街区公園",
         "address": "東京都日野市東平山二丁目23-32",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -1374,8 +2094,17 @@
         "name": "西平山第一公園",
         "type": "街区公園",
         "address": "東京都日野市西平山五丁目28-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1391,8 +2120,17 @@
         "name": "西平山第二公園",
         "type": "街区公園",
         "address": "東京都日野市西平山五丁目20",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1408,8 +2146,17 @@
         "name": "中の台公園",
         "type": "街区公園",
         "address": "東京都日野市程久保一丁目8-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1425,8 +2172,17 @@
         "name": "四ツ谷下公園",
         "type": "街区公園",
         "address": "東京都日野市栄町一丁目22-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1442,8 +2198,17 @@
         "name": "そりめ公園",
         "type": "街区公園",
         "address": "東京都日野市東平山三丁目18-46",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台"
       }
     },
     {
@@ -1459,8 +2224,17 @@
         "name": "渡船場西公園",
         "type": "街区公園",
         "address": "東京都日野市百草1265-20",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -1476,8 +2250,17 @@
         "name": "姥窪公園",
         "type": "街区公園",
         "address": "東京都日野市新町三丁目6-10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1493,8 +2276,17 @@
         "name": "今熊公園",
         "type": "街区公園",
         "address": "東京都日野市南平三丁目5-15",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -1510,8 +2302,17 @@
         "name": "八幡下公園",
         "type": "街区公園",
         "address": "東京都日野市百草567-12",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -1527,8 +2328,17 @@
         "name": "沢田公園",
         "type": "街区公園",
         "address": "東京都日野市平山四丁目14",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1544,8 +2354,17 @@
         "name": "下耕地公園",
         "type": "街区公園",
         "address": "東京都日野市平山四丁目24-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -1561,8 +2380,17 @@
         "name": "かしまだい公園",
         "type": "街区公園",
         "address": "東京都日野市南平一丁目10-44",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、すべり台"
       }
     },
     {
@@ -1578,8 +2406,17 @@
         "name": "精進場公園",
         "type": "街区公園",
         "address": "東京都日野市三沢340-3",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、鉄棒"
       }
     },
     {
@@ -1595,8 +2432,17 @@
         "name": "おとぐち公園",
         "type": "街区公園",
         "address": "東京都日野市三沢四丁目16-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -1612,8 +2458,17 @@
         "name": "市民の森スポーツ公園",
         "type": "街区公園",
         "address": "東京都日野市日野本町七丁目12-1",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、すべり台、ランニングコース、陸上競技場、自動販売機、避難場所、有料駐車場、駐輪場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、すべり台"
       }
     },
     {
@@ -1629,8 +2484,17 @@
         "name": "うえのまち公園",
         "type": "街区公園",
         "address": "東京都日野市西平山一丁目18-47",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -1646,8 +2510,17 @@
         "name": "日だまり公園",
         "type": "街区公園",
         "address": "東京都日野市程久保八丁目21-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ"
       }
     },
     {
@@ -1663,8 +2536,17 @@
         "name": "南平丘陵公園",
         "type": "街区公園",
         "address": "東京都日野市南平八丁目8-3",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1680,8 +2562,17 @@
         "name": "中組公園",
         "type": "街区公園",
         "address": "東京都日野市西平山五丁目6-40",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1697,8 +2588,17 @@
         "name": "谷戸口公園",
         "type": "街区公園",
         "address": "東京都日野市程久保一丁目23-22",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台"
       }
     },
     {
@@ -1714,8 +2614,17 @@
         "name": "駒形下公園",
         "type": "街区公園",
         "address": "東京都日野市川辺堀之内85-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、複合遊具、鉄棒"
       }
     },
     {
@@ -1731,8 +2640,17 @@
         "name": "河内公園",
         "type": "街区公園",
         "address": "東京都日野市百草2015",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、すべり台",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、すべり台"
       }
     },
     {
@@ -1748,8 +2666,17 @@
         "name": "金子屋敷公園",
         "type": "街区公園",
         "address": "東京都日野市三沢853-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1765,8 +2692,17 @@
         "name": "松風公園",
         "type": "街区公園",
         "address": "東京都日野市南平六丁目17-11",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1782,8 +2718,17 @@
         "name": "姥窪南公園",
         "type": "街区公園",
         "address": "東京都日野市新町二丁目2-12",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1799,8 +2744,17 @@
         "name": "南平大坂公園",
         "type": "街区公園",
         "address": "東京都日野市南平四丁目19-25",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1816,8 +2770,17 @@
         "name": "大根川公園",
         "type": "街区公園",
         "address": "東京都日野市新井540-18",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1833,8 +2796,17 @@
         "name": "市場みち公園",
         "type": "街区公園",
         "address": "東京都日野市新井370-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -1850,8 +2822,17 @@
         "name": "金剛寺旧跡公園",
         "type": "街区公園",
         "address": "東京都日野市南平一丁目34-14",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -1867,8 +2848,17 @@
         "name": "中島公園",
         "type": "街区公園",
         "address": "東京都日野市大字新井391-31",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1884,8 +2874,17 @@
         "name": "中沢谷戸公園",
         "type": "街区公園",
         "address": "東京都日野市三沢二丁目22-54",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1901,8 +2900,17 @@
         "name": "御山の松公園",
         "type": "街区公園",
         "address": "東京都日野市南平一丁目10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1918,8 +2926,17 @@
         "name": "北川原公園",
         "type": "総合公園",
         "address": "東京都日野市石田一丁目236",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -1935,8 +2952,17 @@
         "name": "落川公園",
         "type": "街区公園",
         "address": "東京都日野市落川2012",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -1952,8 +2978,17 @@
         "name": "大六天公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平一丁目14-96",
-        "desc": "【設備・遊具】<br>芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -1969,8 +3004,17 @@
         "name": "三沢東公園",
         "type": "街区公園",
         "address": "東京都日野市落川2103",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -1986,8 +3030,17 @@
         "name": "上落川公園",
         "type": "街区公園",
         "address": "東京都日野市落川2106-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2003,8 +3056,17 @@
         "name": "南平公園",
         "type": "街区公園",
         "address": "東京都日野市南平四丁目34-14",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、複合遊具"
       }
     },
     {
@@ -2020,8 +3082,17 @@
         "name": "禅寺丸公園",
         "type": "街区公園",
         "address": "東京都日野市南平四丁目3-10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ"
       }
     },
     {
@@ -2037,8 +3108,17 @@
         "name": "ふる川公園",
         "type": "街区公園",
         "address": "東京都日野市大字新井529-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2054,8 +3134,17 @@
         "name": "万願寺の渡し公園",
         "type": "街区公園",
         "address": "東京都日野市大字石田441-42",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2071,8 +3160,17 @@
         "name": "小構公園",
         "type": "街区公園",
         "address": "東京都日野市日野台一丁目1-7",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒、芝生広場、駐輪場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -2088,8 +3186,17 @@
         "name": "三沢たちばな公園",
         "type": "街区公園",
         "address": "東京都日野市三沢1500",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、ブランコ、バスケットゴール",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ"
       }
     },
     {
@@ -2105,8 +3212,17 @@
         "name": "加賀塚公園",
         "type": "街区公園",
         "address": "東京都日野市栄町一丁目35-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、すべり台、ローラースライダー",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、複合遊具"
       }
     },
     {
@@ -2122,8 +3238,17 @@
         "name": "埴輪公園",
         "type": "街区公園",
         "address": "東京都日野市新町五丁目15-11",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2139,8 +3264,17 @@
         "name": "東光寺西公園",
         "type": "街区公園",
         "address": "東京都日野市新町五丁目1-16",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2156,8 +3290,17 @@
         "name": "潤徳公園",
         "type": "街区公園",
         "address": "東京都日野市高幡507-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2173,8 +3316,17 @@
         "name": "大木島自然公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺六丁目6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2190,8 +3342,17 @@
         "name": "川原附公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺六丁目16-6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、複合遊具"
       }
     },
     {
@@ -2207,8 +3368,17 @@
         "name": "藺沼公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺三丁目22-8",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2224,8 +3394,17 @@
         "name": "根川公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺二丁目36-6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2241,8 +3420,17 @@
         "name": "源平島東公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺一丁目12-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -2258,8 +3446,17 @@
         "name": "下田つつじ公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺二丁目19-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、複合遊具"
       }
     },
     {
@@ -2275,8 +3472,17 @@
         "name": "新井公園",
         "type": "街区公園",
         "address": "東京都日野市石田一丁目13-6",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、複合遊具"
       }
     },
     {
@@ -2292,8 +3498,17 @@
         "name": "石明公園",
         "type": "街区公園",
         "address": "東京都日野市石田二丁目11-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、鉄棒、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台、鉄棒"
       }
     },
     {
@@ -2309,8 +3524,17 @@
         "name": "水車公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺二丁目28",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -2326,8 +3550,17 @@
         "name": "下田住宅公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺二丁目10-10",
-        "desc": "【設備・遊具】<br>砂場、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、鉄棒"
       }
     },
     {
@@ -2343,8 +3576,17 @@
         "name": "日野万大六天公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺一丁目37-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2360,8 +3602,17 @@
         "name": "源平島西公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺一丁目31-10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -2377,8 +3628,17 @@
         "name": "家生田公園",
         "type": "街区公園",
         "address": "東京都日野市万願寺四丁目9-10",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2394,8 +3654,17 @@
         "name": "日枝神社西公園",
         "type": "街区公園",
         "address": "東京都日野市東豊田一丁目1-20",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2411,8 +3680,17 @@
         "name": "よそう森公園",
         "type": "街区公園",
         "address": "東京都日野市新町三丁目10-45",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2428,8 +3706,17 @@
         "name": "水車堀公園",
         "type": "街区公園",
         "address": "東京都日野市新町三丁目43-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -2445,8 +3732,17 @@
         "name": "万願寺中央公園",
         "type": "近隣公園",
         "address": "東京都日野市万願寺四丁目20-12",
-        "desc": "公園西側駐車場：交流センター利用者専用駐車場　公園東側駐車場：グラウンド・公園利用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、砂場、複合遊具、野球場、自動販売機、避難場所、無料駐車場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、複合遊具"
       }
     },
     {
@@ -2462,8 +3758,17 @@
         "name": "田中島公園",
         "type": "街区公園",
         "address": "東京都日野市落川1397-61",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、鉄棒"
       }
     },
     {
@@ -2479,8 +3784,17 @@
         "name": "まつり塚公園",
         "type": "街区公園",
         "address": "東京都日野市富士町1-35",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2496,8 +3810,17 @@
         "name": "御林山公園",
         "type": "街区公園",
         "address": "東京都日野市百草1042-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2513,8 +3836,17 @@
         "name": "新井わかたけ公園",
         "type": "街区公園",
         "address": "東京都日野市石田266",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台"
       }
     },
     {
@@ -2530,8 +3862,17 @@
         "name": "浅川スポーツ公園",
         "type": "近隣公園",
         "address": "東京都日野市万願寺五丁目3-5",
-        "desc": "グラウンド利用者専用駐車場<br><br>【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、芝生広場、サッカー場、避難場所、無料駐車場、駐輪場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -2547,8 +3888,17 @@
         "name": "中原公園",
         "type": "街区公園",
         "address": "東京都日野市東平山三丁目16-21",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台、鉄棒"
       }
     },
     {
@@ -2564,8 +3914,17 @@
         "name": "松連寺坂下公園",
         "type": "街区公園",
         "address": "東京都日野市落川1049-8",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、砂場、健康器具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場"
       }
     },
     {
@@ -2581,8 +3940,17 @@
         "name": "別旅公園",
         "type": "街区公園",
         "address": "東京都日野市高幡426-3",
-        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>複合遊具"
       }
     },
     {
@@ -2598,8 +3966,17 @@
         "name": "姫森公園",
         "type": "街区公園",
         "address": "東京都日野市新町一丁目34-3",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -2615,8 +3992,17 @@
         "name": "東豊田公園",
         "type": "街区公園",
         "address": "東京都日野市東豊田一丁目33-26",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、砂場、複合遊具、健康器具",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、複合遊具"
       }
     },
     {
@@ -2632,8 +4018,17 @@
         "name": "池堀公園",
         "type": "街区公園",
         "address": "東京都日野市新町一丁目25-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2649,8 +4044,17 @@
         "name": "大福寺下公園",
         "type": "街区公園",
         "address": "東京都日野市平山五丁目49-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2666,8 +4070,17 @@
         "name": "出口公園",
         "type": "街区公園",
         "address": "東京都日野市平山五丁目39",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -2683,8 +4096,17 @@
         "name": "東光寺上公園",
         "type": "街区公園",
         "address": "東京都日野市新町四丁目4-25",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、鉄棒、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、鉄棒"
       }
     },
     {
@@ -2700,8 +4122,17 @@
         "name": "七ッ塚公園",
         "type": "総合公園",
         "address": "東京都日野市新町五丁目20-1",
-        "desc": "ファーマーズセンター利用者専用駐車場<br><br>【設備・遊具】<br>水飲み・手洗い、ターザンロープ、芝生広場、自動販売機、駐輪場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2717,8 +4148,17 @@
         "name": "南広間地公園",
         "type": "街区公園",
         "address": "東京都日野市大字日野315-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2734,8 +4174,17 @@
         "name": "北御越前公園",
         "type": "街区公園",
         "address": "東京都日野市日野台二丁目8",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2751,8 +4200,17 @@
         "name": "一里塚公園",
         "type": "街区公園",
         "address": "東京都日野市日野台五丁目2-20",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、健康器具、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -2768,8 +4226,17 @@
         "name": "豊田電車区公園",
         "type": "街区公園",
         "address": "東京都日野市東平山三丁目26-23",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、芝生広場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -2785,8 +4252,17 @@
         "name": "-匠谷戸公園",
         "type": "街区公園",
         "address": "東京都日野市程久保八丁目18-27",
-        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -2802,8 +4278,17 @@
         "name": "四ッ谷前公園",
         "type": "街区公園",
         "address": "東京都日野市栄町一丁目32-1",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、複合遊具",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、複合遊具"
       }
     },
     {
@@ -2819,8 +4304,17 @@
         "name": "落川河原公園",
         "type": "街区公園",
         "address": "東京都日野市落川2203外",
-        "desc": "【設備・遊具】<br>トイレ、多目的\nトイレ、水飲み・手洗い、スプリング遊具・スイング遊具、健康器具、芝生広場",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -2836,8 +4330,17 @@
         "name": "多摩平御料の森公園",
         "type": "街区公園",
         "address": "東京都日野市多摩平六丁目20-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、スプリング遊具・スイング遊具、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2853,8 +4356,17 @@
         "name": "新井水車公園",
         "type": "街区公園",
         "address": "東京都日野市新井803-26",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2870,8 +4382,17 @@
         "name": "ねんも公園",
         "type": "公園",
         "address": "東京都日野市三沢495",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、すべり台、鉄棒、芝生広場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、複合遊具、鉄棒"
       }
     },
     {
@@ -2887,8 +4408,17 @@
         "name": "苗間公園",
         "type": "公園",
         "address": "東京都日野市南平五丁目20-16",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2904,8 +4434,17 @@
         "name": "倉沢岡公園",
         "type": "公園",
         "address": "東京都日野市百草1006-28",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ、鉄棒、駐輪場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ、鉄棒"
       }
     },
     {
@@ -2921,8 +4460,17 @@
         "name": "鹿島台ふれあい広場",
         "type": "公園",
         "address": "東京都日野市南平一丁目26-4",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -2938,8 +4486,17 @@
         "name": "日野台1丁目公園",
         "type": "公園",
         "address": "東京都日野市日野台一丁目9-21",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -2955,8 +4512,17 @@
         "name": "上宿の辻公園",
         "type": "公園",
         "address": "東京都日野市日野本町四丁目7-24",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -2972,8 +4538,17 @@
         "name": "森町公園",
         "type": "公園",
         "address": "東京都日野市日野本町四丁目8-12",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -2989,8 +4564,17 @@
         "name": "やのやま地区広場",
         "type": "地区広場",
         "address": "東京都日野市大坂上一丁目7-2",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -3006,8 +4590,17 @@
         "name": "まつばやし地区広場",
         "type": "地区広場",
         "address": "東京都日野市日野7773-585",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い"
       }
     },
     {
@@ -3023,8 +4616,17 @@
         "name": "かしまだい地区広場",
         "type": "地区広場",
         "address": "東京都日野市南平一丁目10-43",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、芝生広場、無料駐車場",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -3040,8 +4642,17 @@
         "name": "もぐさ観音地区広場",
         "type": "地区広場",
         "address": "東京都日野市百草819-4",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -3057,8 +4668,17 @@
         "name": "おちかわ地区広場",
         "type": "地区広場",
         "address": "東京都日野市落川1530先",
-        "desc": "【設備・遊具】<br>トイレ",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ"
       }
     },
     {
@@ -3074,8 +4694,17 @@
         "name": "あずまちょう地区広場",
         "type": "地区広場",
         "address": "東京都日野市日野1237-5",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -3091,8 +4720,17 @@
         "name": "ほどくぼ地区広場",
         "type": "地区広場",
         "address": "東京都日野市程久保三丁目22-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い"
       }
     },
     {
@@ -3108,8 +4746,17 @@
         "name": "福祉センター前児童遊園",
         "type": "遊び場",
         "address": "東京都日野市日野本町7丁目5-9",
-        "desc": "【設備・遊具】<br>砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -3125,8 +4772,17 @@
         "name": "下村児童遊園",
         "type": "遊び場",
         "address": "東京都日野市平山五丁目1-9",
-        "desc": "【設備・遊具】<br>砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -3142,8 +4798,17 @@
         "name": "新東光寺児童遊園",
         "type": "遊び場",
         "address": "東京都日野市栄町三丁目14",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -3159,8 +4824,17 @@
         "name": "第二日野万児童遊園",
         "type": "遊び場",
         "address": "東京都日野市日野1077-96",
-        "desc": "【設備・遊具】<br>スプリング遊具・スイング遊具、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -3176,8 +4850,17 @@
         "name": "第一日野万児童遊園",
         "type": "遊び場",
         "address": "東京都日野市万願寺三丁目39-27",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、ブランコ",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、ブランコ"
       }
     },
     {
@@ -3193,8 +4876,17 @@
         "name": "新坂下児童遊園",
         "type": "遊び場",
         "address": "東京都日野市新町3丁目4-3",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、ブランコ、すべり台、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、ブランコ、すべり台、鉄棒"
       }
     },
     {
@@ -3210,8 +4902,17 @@
         "name": "山下児童遊園",
         "type": "遊び場",
         "address": "東京都日野市日野本町二丁目4-7",
-        "desc": "【設備・遊具】<br>砂場、ブランコ、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -3227,8 +4928,17 @@
         "name": "広間地児童遊園",
         "type": "遊び場",
         "address": "東京都日野市日野2860",
-        "desc": "【設備・遊具】<br>鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>鉄棒"
       }
     },
     {
@@ -3244,8 +4954,17 @@
         "name": "第二武蔵野台児童遊園",
         "type": "遊び場",
         "address": "東京都日野市程久保二丁目7-2",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、砂場、複合遊具、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、砂場、すべり台、複合遊具、鉄棒"
       }
     },
     {
@@ -3261,8 +4980,17 @@
         "name": "平山武蔵台児童遊園",
         "type": "遊び場",
         "address": "東京都日野市東平山二丁目29-3",
-        "desc": "【設備・遊具】<br>複合遊具、すべり台、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>すべり台、複合遊具、鉄棒"
       }
     },
     {
@@ -3278,8 +5006,17 @@
         "name": "横町児童遊園",
         "type": "遊び場",
         "address": "東京都日野市大坂上一丁目4-11",
-        "desc": "【設備・遊具】<br>水飲み・手洗い、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>水飲み・手洗い、すべり台"
       }
     },
     {
@@ -3295,8 +5032,17 @@
         "name": "小高田児童遊園",
         "type": "遊び場",
         "address": "東京都日野市東豊田一丁目42-2",
-        "desc": "【設備・遊具】<br>砂場、複合遊具、ブランコ、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": true,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、ブランコ、すべり台、複合遊具"
       }
     },
     {
@@ -3312,8 +5058,17 @@
         "name": "万願寺児童遊園",
         "type": "遊び場",
         "address": "東京都日野市日野7774",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -3329,8 +5084,17 @@
         "name": "百草台児童遊園",
         "type": "遊び場",
         "address": "東京都日野市百草999",
-        "desc": "【設備・遊具】<br>複合遊具、すべり台、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": true,
+        "combo_play": true,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>すべり台、複合遊具"
       }
     },
     {
@@ -3346,8 +5110,17 @@
         "name": "豊田児童グラウンド",
         "type": "遊び場",
         "address": "東京都日野市豊田一丁目先",
-        "desc": "【設備・遊具】<br>トイレ",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ"
       }
     },
     {
@@ -3363,8 +5136,17 @@
         "name": "大和田運動広場",
         "type": "遊び場",
         "address": "東京都日野市八王子市大和田",
-        "desc": "【設備・遊具】<br>トイレ、水飲み・手洗い、砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": true,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ、水飲み・手洗い、砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -3380,8 +5162,17 @@
         "name": "程久保運動広場",
         "type": "遊び場",
         "address": "東京都日野市程久保531-33",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -3397,8 +5188,17 @@
         "name": "田中こども広場",
         "type": "遊び場",
         "address": "東京都日野市南平八丁目5",
-        "desc": "【設備・遊具】<br>トイレ",
-        "marker_type": "park"
+        "toilet": true,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>トイレ"
       }
     },
     {
@@ -3414,8 +5214,17 @@
         "name": "向島こども広場",
         "type": "遊び場",
         "address": "東京都日野市南平五丁目33",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     },
     {
@@ -3431,8 +5240,17 @@
         "name": "黒川こども広場",
         "type": "遊び場",
         "address": "東京都日野市東豊田三丁目15-5",
-        "desc": "【設備・遊具】<br>砂場、すべり台、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、すべり台"
       }
     },
     {
@@ -3448,8 +5266,17 @@
         "name": "東宮下こども広場",
         "type": "遊び場",
         "address": "東京都日野市東平山3-11-35",
-        "desc": "【設備・遊具】<br>砂場、ブランコ、ジャングルジム、鉄棒",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": true,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": true,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、ブランコ、鉄棒"
       }
     },
     {
@@ -3465,8 +5292,17 @@
         "name": "金子橋こども広場",
         "type": "遊び場",
         "address": "東京都日野市日野本町二丁目13-24",
-        "desc": "【設備・遊具】<br>砂場、すべり台",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、すべり台"
       }
     },
     {
@@ -3482,8 +5318,17 @@
         "name": "向川原こども広場",
         "type": "遊び場",
         "address": "東京都日野市南平五丁目30-1",
-        "desc": "【設備・遊具】<br>砂場、すべり台、ジャングルジム",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": true,
+        "swing": false,
+        "slide": true,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "【設備】<br>砂場、すべり台"
       }
     },
     {
@@ -3499,8 +5344,17 @@
         "name": "宮こども広場",
         "type": "遊び場",
         "address": "東京都日野市万願寺三丁目47-2",
-        "desc": "",
-        "marker_type": "park"
+        "toilet": false,
+        "multipurpose_toilet": false,
+        "diaper_change": false,
+        "water": false,
+        "sandbox": false,
+        "swing": false,
+        "slide": false,
+        "combo_play": false,
+        "iron_bar": false,
+        "water_play": false,
+        "desc": "設備情報なし"
       }
     }
   ]
