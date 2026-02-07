@@ -103,11 +103,14 @@
         right: 10px;
         z-index: 1000; /* 地図より手前に表示 */
         background: white;
-        padding: 15px;
+        padding: 10px 15px;
         border-radius: 8px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         max-width: 250px;
         font-family: sans-serif;
+        /* スマホで幅を取りすぎないようにする */
+        max-height: 80vh; /* 画面の高さの80%以上にはならないように */
+        overflow-y: auto; /* 中身が多い場合はスクロール */
       }
       .filter-panel h3 {
         margin-top: 0;
@@ -116,6 +119,25 @@
       .filter-item {
         margin-bottom: 5px;
         display: block;
+      }
+
+      /* スマホ向けのレスポンシブ設定 */
+      @media (max-width: 600px) {
+        .filter-panel {
+          max-width: 200px; /* 幅を少し狭める */
+          font-size: 14px; /* 文字を少し小さく */
+        }
+
+        /* 初期状態では中身を隠す */
+        #filter-content {
+          display: none;
+        }
+
+        /* クラス "open" がついたときだけ表示する */
+        #filter-content.open {
+          display: block;
+          margin-top: 10px;
+        }
       }
     </style>
   </head>
@@ -127,34 +149,46 @@
 
     <!-- 絞り込みパネル -->
     <div class="filter-panel">
-      <h3>設備でさがす</h3>
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="toilet" />
-        トイレあり</label
+      <h3
+        id="filter-title"
+        style="
+          cursor: pointer;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        "
       >
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="water_play" />
-        水遊びができる</label
-      >
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="sandbox" />
-        砂場</label
-      >
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="swing" />
-        ブランコ</label
-      >
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="slide" />
-        すべり台</label
-      >
-      <label class="filter-item"
-        ><input type="checkbox" class="filter-chk" value="combo_play" />
-        複合遊具</label
-      >
-      <hr />
-      <div style="font-size: 12px; color: #666">
-        ※チェックを入れると、その設備がある公園のみ表示されます。
+        設備でさがす <span id="toggle-icon">▼</span>
+      </h3>
+      <div id="filter-content">
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="toilet" />
+          トイレあり</label
+        >
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="water_play" />
+          水遊びができる</label
+        >
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="sandbox" />
+          砂場</label
+        >
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="swing" />
+          ブランコ</label
+        >
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="slide" />
+          すべり台</label
+        >
+        <label class="filter-item"
+          ><input type="checkbox" class="filter-chk" value="combo_play" />
+          複合遊具</label
+        >
+        <hr />
+        <div style="font-size: 12px; color: #666">
+          ※チェックを入れると、その設備がある公園のみ表示されます。
+        </div>
       </div>
     </div>
 
@@ -247,6 +281,30 @@
           },
         );
       });
+
+      // --- 6. 絞り込みパネルの開閉機能 (スマホ向け) ---
+      const filterTitle = document.getElementById('filter-title');
+      const filterContent = document.getElementById('filter-content');
+      const toggleIcon = document.getElementById('toggle-icon');
+
+      filterTitle.addEventListener('click', function () {
+        if (filterContent.style.display === 'block') {
+          filterContent.style.display = 'none';
+          toggleIcon.textContent = '▼';
+        } else {
+          filterContent.style.display = 'block';
+          toggleIcon.textContent = '▲';
+        }
+      });
+
+      // ※PCで見るときは最初から開いておく
+      if (window.innerWidth > 600) {
+        filterContent.style.display = 'block';
+        toggleIcon.textContent = '▲';
+      } else {
+        filterContent.style.display = 'none';
+        toggleIcon.textContent = '▼';
+      }
 
       // フィルタリングと再描画
       function updateMap() {
